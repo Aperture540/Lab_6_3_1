@@ -12,12 +12,50 @@
  */
 
 #include <cstdlib>
+#include <iostream>
 
 using namespace std;
 
 /*
  * 
  */
+
+class Base {
+    
+public:
+   
+private:
+    
+};
+
+
+class TreeType1 {
+
+public:
+   
+private:
+    
+};
+
+
+class TreeType2 {
+
+public:
+   
+private:
+    
+};
+
+
+class TreeType3 {
+
+public:
+   
+private:
+    
+};
+
+
 int main(int argc, char** argv) {
 
     return 0;
